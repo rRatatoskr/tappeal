@@ -1,0 +1,6 @@
+gitの使い方
+
+1.git add 追加・変更するファイルの名前
+2.git commit -m "変更点"
+3.git push origin ブランチ名
+4.ファイルが送れたか確認
