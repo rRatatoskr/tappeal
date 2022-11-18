@@ -1,11 +1,5 @@
 <resources>
     <string name="app_name">botan</string>
-    <string name="text_massage">どっち？</string>
-    <string name="text_massage_cat">にゃーにゃー！</string>
-    <string name="text_massage_dog">わんわん！</string>
-    <string name="button_text_cat">🐱</string>
-    <string name="button_text_dog">🐶</string>
-    <string name="button_text_kaeru">🐸</string>
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
     <string name="title_activity_login">LoginActivity</string>

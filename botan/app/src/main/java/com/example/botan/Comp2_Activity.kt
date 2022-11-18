@@ -5,12 +5,11 @@ import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.widget.ImageButton
 
-class Comp_Activity : AppCompatActivity() {
+class Comp2_Activity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
-        setContentView(R.layout.activity_comp)
-
-        var buttonback = findViewById<ImageButton>(R.id.button_back_appeal)
+        setContentView(R.layout.activity_comp2)
+        var buttonback = findViewById<ImageButton>(R.id.button_back_comp2)
 
         buttonback.setOnClickListener {
             val intent = Intent(this, MainActivity::class.java)
