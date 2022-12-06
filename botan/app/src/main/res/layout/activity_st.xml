@@ -20,7 +20,7 @@
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
-        app:srcCompat="@drawable/botton12" />
+        app:srcCompat="@drawable/button2__1_" />
 
     <ImageButton
         android:id="@+id/button_t"
@@ -35,5 +35,5 @@
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
-        app:srcCompat="@drawable/button11" />
+        app:srcCompat="@drawable/button1" />
 </androidx.constraintlayout.widget.ConstraintLayout>
