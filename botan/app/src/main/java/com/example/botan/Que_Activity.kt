@@ -13,7 +13,7 @@ class Que_Activity : AppCompatActivity() {
         var buttonno = findViewById<ImageButton>(R.id.button_que_no)
 
         buttonyes.setOnClickListener {
-            val intent = Intent(this, Appeal_Activity::class.java)
+            val intent = Intent(this, Toilet_close_Activity::class.java)
             startActivity(intent)
         }
 
